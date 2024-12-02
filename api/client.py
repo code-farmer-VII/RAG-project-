@@ -25,3 +25,8 @@ if input_text:
 
 if input_text1:
     st.write(get_ollama_response(input_text1))
+
+
+
+#this is the clinet side code in this code firtst import the package of  request to request the backend code and 
+#the streamlit to display the result and to intracting to the backend code  

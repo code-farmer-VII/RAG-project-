@@ -32,3 +32,16 @@ chain=prompt|llm|output_parser
 
 if input_text:
     st.write(chain.invoke({'question':input_text}))
+
+
+#first import the llm model of the langchanin secound the prompt then finally the output either the template or the custem output
+#then import the streamlit template and the dot env handeler 
+#then instantiate the prompt , llm type and call the outputParser function 
+#then chain the prompt , the llm and the output 
+#make a streamlit template to handle the prompt and to display the output
+
+
+#the prompt is always in system and the user
+ 
+
+

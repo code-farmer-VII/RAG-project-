@@ -1,0 +1,29 @@
+pip install requirements.txt 
+pip install  -r requirements.txt
+pip install ipykernel this package helps to install the jupyter 
+
+
+
+
+
+langchani_openai
+lanchain_core
+python-dotenv
+steamlit
+langchain_comminity
+langserve
+fastapi
+unicorn
+sse_starlette
+bs4
+pypdf
+chromadb
+faiss-cpu another forma of database
+groq
+cassio
+beatufulsoup4
+langchain_groq
+wikipedia
+arxiv
+
+
